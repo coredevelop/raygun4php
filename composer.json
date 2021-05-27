@@ -1,5 +1,5 @@
 {
-  "name": "springtimesoft/raygun",
+  "name": "coredevelop/raygun4php",
   "type": "magento2-module",
   "description": "Raygun - Super quick error reporting for Magento 2",
   "keywords": ["Magento2", "Admin", "Raygun"],
